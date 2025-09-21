@@ -1,0 +1,5 @@
+{
+  "name": "PuneCover",
+  "description": "A web application that simulates tracking running routes in Pune, India. Users can draw routes on a map to see how much of the city they have covered, with real-time geospatial calculations and visualizations.",
+  "requestFramePermissions": []
+}
